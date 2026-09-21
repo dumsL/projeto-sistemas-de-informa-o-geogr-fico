@@ -187,7 +187,7 @@ O arquivo HTML pode ser aberto diretamente em um navegador.
 
 O projeto já possui uma versão final do mapa em HTML:
 
-**[Abrir mapa interativo](file:///C:/Users/DELL/Downloads/projeto%20sig/mapa_enchentes_rs_2024_final.html)**
+**[Abrir mapa interativo](./mapa_enchentes_rs_2024_final.html)**
 
 ## Fontes
 
